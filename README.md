@@ -3,7 +3,7 @@
 I'm a Computer Engineering graduate and passionate Web Developer based in Ghana. I love building modern, responsive, and user-friendly web applications using **TypeScript**, **React**, and **Tailwind CSS**. I'm especially excited about open-source projects and creating digital tools that make a real impact.
 
 ### 💻 What I'm Working On
-- Volunteering as a Frontend Developer at [PazelGreen Technologies](https://github.com/pazelgreen)
+- Volunteering as a Frontend Developer for a nonprofit organization
 - Contributing to nonprofit web projects using TypeScript, React & Tailwind CSS
 - Building personal projects focused on UI/UX and accessibility
 
