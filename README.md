@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Claudia
+## Hi I'm Claudia!
 
 I'm a Computer Engineering graduate and passionate Web Developer based in Ghana. I love building modern, responsive, and user-friendly web applications using **TypeScript**, **React**, and **Tailwind CSS**. I'm especially excited about open-source projects and creating digital tools that make a real impact.
 
@@ -11,7 +11,6 @@ I'm a Computer Engineering graduate and passionate Web Developer based in Ghana.
 - Advanced TypeScript & performance optimization
 - Open-source contribution workflows
 - Node.js backend fundamentals
-- 
 
 ### 🛠️ Tech Stack
 - **Frontend:** React, TypeScript, JavaScript, Tailwind CSS, HTML/CSS 
