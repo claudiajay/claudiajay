@@ -26,8 +26,6 @@ Alongside web development, I have a growing interest in **data analysis** and lo
 - 💻 See my portfolio at: https://ctrlclaudia.netlify.app
  
 
-### ⚡ Fun Fact
-I once built a Telegram bot that automates tax calculations
 
 ---
 
