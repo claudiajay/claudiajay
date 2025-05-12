@@ -22,7 +22,8 @@ I'm a Computer Engineering graduate and passionate Web Developer based in Ghana.
 Alongside web development, I have a growing interest in **data analysis** and love creating **interactive Excel dashboards** just for fun. It’s a creative way I blend logic, design, and insights.
 
 ### 🌍 Let's Connect!
-- 📫 Reach me: claudiajoppa@gmail.com   
+- 📫 Reach me: claudiajoppa@gmail.com
+- 💻 See my portfolio at: https://ctrlclaudia.netlify.app
  
 
 ### ⚡ Fun Fact
